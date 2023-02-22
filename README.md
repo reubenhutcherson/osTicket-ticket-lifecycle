@@ -28,9 +28,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>Stage 1: Intake - Creating a Ticket</h3>
 
 
-- To act like an end user to create a ticket, click [here](http://localhost/osTicket/).
+- To act like an end user to create a ticket, go to this link: (http://localhost/osTicket/).
 - Select Open a New Ticket
-  - Email Address:ken@osticket.com
+  - Email Address: ken@osticket.com
   - Name: Ken Ken
   - Help Topic Dropdown Menu: Business Critical Outage
     - Issue Summary: Entire mobile online banking is down
@@ -44,7 +44,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3>Step 2: Assignment and Communication</h3>
 
-- Sign into osTicket as an Agent
+- Sign into osTicket as an Agent. (You can sign in through the staff control panel link:  http://localhost/osTicket/scp)
   - We created jane.doe in previous tutorial, log in with those credentials. 
   - Select the ticket we created in Step 1.
   
